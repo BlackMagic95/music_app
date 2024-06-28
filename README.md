@@ -1,4 +1,4 @@
-# Working Music App using React & Bootstrap
+# Functional Music App using React & Bootstrap
 
 This project contains options to listen to the preview of any song powered by spotify api.
 
